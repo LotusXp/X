@@ -10,11 +10,11 @@ const perguntas = [
     alternativas: [
         {
             texto:"280CV",
-            afirmacao: "Certo"
+            afirmacao: " Certo "
         },
         {
         texto:"340CV",
-        afirmacao: "Errado"
+        afirmacao: " Errado "
         }
     ]
 },
@@ -25,11 +25,11 @@ const perguntas = [
         {
 
         texto: "Hennessey Venom F5.",
-        afirmacao: "Certo"
+        afirmacao: " Certo "
         },
         {
         texto:"Bugatti Chiron Super Sport.",
-        afirmacao: "Errado"
+        afirmacao: " Errado "
         }
     ]
 },
@@ -39,11 +39,11 @@ const perguntas = [
     alternativas: [
         {
         texto:"Koenigsegg Jesko.",
-        afirmacao: "Certo"
+        afirmacao: " Certo "
         },
         {
         texto:"Renault Twizy.",
-        afirmacao: "Errado"
+        afirmacao: " Errado "
         }
     ]
 }
