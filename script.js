@@ -20,29 +20,29 @@ const perguntas = [
 },
 
 {
-    enunciado: "Como você pode ajudar a combater a disseminação de fake news, especialmente as que perpetuam o racismo?",
+    enunciado: "Qual p carro mais rápido do mundo?",
     alternativas: [
         {
 
-        texto: "Verificando a veracidade das informações antes de compartilhar qualquer conteúdo, especialmente sobre temas sensíveis como racismo.",
+        texto: "Hennessey Venom F5.",
         afirmacao: "afirmação 3"
         },
         {
-        texto:"Educando amigos e familiares sobre os perigos das fake news e incentivando-os a não compartilhar conteúdos falsos que perpetuam o racismo.",
+        texto:"Bugatti Chiron Super Sport.",
         afirmacao: "afirmação 4"
         }
     ]
 },
 
 {
-    enunciado: "Quais são os benefícios do uso de recursos tecnológicos para promover a acessibilidade em diferentes ambientes?",
+    enunciado: "Qual o carro com mais CV do mundo?",
     alternativas: [
         {
-        texto:"Promover a instalação de painéis solares em escolas e centros comunitários de comunidades marginalizadas.",
+        texto:"Koenigsegg Jesko.",
         afirmacao: "afirmação 5"
         },
         {
-        texto:"Defender políticas públicas que subsidiem a energia solar para famílias de baixa renda.",
+        texto:"Renault Twizy.",
         afirmacao: "afirmação 6"
         }
     ]
